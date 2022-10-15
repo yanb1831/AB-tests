@@ -1,3 +1,3 @@
 В данном репозитории расположены проекты выполненые во время обучения на курсе "Симмулятор Аналитика" karpov courses
 
-СЕРТИФИКАТ: [Ссылка]: https://disk.yandex.ru/i/syugS_vyZTKsyg
+СЕРТИФИКАТ: <code>[Ссылка]: https://disk.yandex.ru/i/syugS_vyZTKsyg<code>
