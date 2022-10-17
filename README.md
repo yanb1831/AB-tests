@@ -6,4 +6,4 @@
 - ПОИСК АНОМАЛИЙ (СИСТЕМА АЛЕРТОВ) [Ссылка](https://github.com/yanb1831/karpov.courses/blob/afe603f1197c6b6e3ab1c8c10685e00955e01959/Airflow/alerts.py)
   
   
-СЕРТИФИКАТ: [Ссылка](https://disk.yandex.ru/i/syugS_vyZTKsyg)
+СЕРТИФИКАТ: [Ссылка](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FSOwfo%2BanJFMbE76GNwBm9QfHANZUd5DsBO7YJDOr2hqAh6CZg9%2FStvJtgj9ReAxkq%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=3b328d30-7583-4706-b4af-2e20068d2e10.pdf)
