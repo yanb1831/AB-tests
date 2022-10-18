@@ -33,7 +33,7 @@
         </tr>
         <tr>
             <td><p>
-            <a href="https://github.com/yanb1831/karpov.courses/blob/afe603f1197c6b6e3ab1c8c10685e00955e01959/Airflow/alerts.py">3. ПОИСК АНОМАЛИЙ (СИСТЕМА АЛЕРТОВ)</a>
+            <a href="https://github.com/yanb1831/karpov.courses/blob/afe603f1197c6b6e3ab1c8c10685e00955e01959/Airflow/alerts.py">4. ПОИСК АНОМАЛИЙ (СИСТЕМА АЛЕРТОВ)</a>
             </p></td>
             <td>
                 <p>Автоматизированная системы поиска аномалий каждые 15 минут проверяет ключевые метрики и отправляет сообщения-алерты при отклонении метрик в Telegram.</p>
