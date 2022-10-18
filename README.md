@@ -15,7 +15,6 @@
             </td>
         </tr>
         <tr>
-        <tr>
             <td><p>
             <a href="https://github.com/yanb1831/karpov.courses/blob/0dd43b33cde2d95be678e914880b144caa83baf3/Airflow/ETL_pipeline.py">2. ETL-ПАЙПЛАЙН</a>
             </p></td>
